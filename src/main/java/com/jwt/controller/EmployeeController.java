@@ -15,7 +15,7 @@ import org.springframework.web.servlet.ModelAndView;
 import com.jwt.model.Employee;
 import com.jwt.service.EmployeeService;
 
-Controller
+@Controller
 
 public class EmployeeController {
 
